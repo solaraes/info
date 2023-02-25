@@ -1,0 +1,30 @@
+body {
+background-color: #F7ECDE;
+font-family: Tahoma;
+text-shadow: 1px 1px 1px #504658;
+letter-spacing: 4px;
+}
+hr {
+    border-width : 6px;
+    background-color: #F7ECDE;
+    border-color: #F8615A;
+    border-style: dotted none none;
+    height: 0px;
+    width: 5%;
+    }
+h1 {
+color: #FFD868;
+}
+h3 {
+color: #F8615A;
+}
+li {
+color: #31112C;
+}
+p {
+color: black;
+}
+a {
+color: #66CCCC;
+}
+
